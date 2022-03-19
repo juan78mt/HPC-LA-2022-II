@@ -8,7 +8,7 @@ Descripción de microproyecto 1
 
 Proyecto de programación paralela para paralelizar 
 la multiplicación de matrices cuadradas por medio de
-hilos.
+hilos en el lenguaje Python y la libreria threading.
 
 
 
